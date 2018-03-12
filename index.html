@@ -1,0 +1,22 @@
+---
+layout: page
+---
+
+<div class="row">
+{% for i in site.data.software %}
+	{% assign loopindex = forloop.index | modulo: 3 %}
+	{% if loopindex == 1 and forloop.index != 1 %}
+	</div>
+	<div class="row">
+	{% endif %}
+	<div class="col-sm-4 spaced">
+		<div class="card">
+			<a href="{{ i.url }}"><img class="card-img-top" src="/software/{{ i.id }}.png"></a>
+			<div class="card-body">
+				<a href="{{ i.url }}"><h5 class="card-title">{{ i.name }}</h5></a>
+				<p class="card-text">{{ i.description }}</p>
+			</div>
+		</div>
+	</div>
+{% endfor %}
+</div>

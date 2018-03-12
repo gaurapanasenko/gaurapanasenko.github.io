@@ -1,0 +1,72 @@
+@font-face {
+    font-family: 'ComicJensFreePro';
+    src: url('fonts/ComicJensFreePro-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+body {
+	background : #e7e7e7 url(../images/body-bg.png) 0 0 repeat;
+	font-family : ComicJensFreePro;
+}
+.container {
+/*
+	background : transparent url(../images/highlight-bg.jpg) 50% 0 no-repeat;
+*/
+	min-height : 100vh;
+	padding : 30px 50px 0;
+}
+.logo {
+	margin : 0 20px 10px 0;
+}
+.logo-link {
+	color : #212529;
+	font-size: 3.5rem;
+	line-height : 1;
+	vertical-align : middle;
+}
+.logo-link:hover {
+	color : #212529;
+	text-decoration : none;
+}
+.footer {
+	margin-top : 20px;
+}
+.footer span {
+	margin : 10px auto
+}
+.col-sm-4.spaced {
+	margin : 20px 0;
+}
+.mobile-donate {
+	display : none;
+}
+p.spaced {
+	margin : 50px 0;
+}
+@media (max-width: 450px) {
+	.mobile-donate {
+		display : inline-block;
+	}
+	.donate {
+		display : none;
+	}
+}
+@media (min-width: 768px) {
+	.container-small {
+		width: 776px;
+	}
+}
+@media (min-width: 992px) {
+	.container-small {
+		width: 944px;
+	}
+}
+@media (min-width: 1200px) {
+	.container-small {
+		width: 1000px;
+	}
+}
+
+.container-small {
+	max-width: 100%;
+}

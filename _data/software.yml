@@ -1,0 +1,19 @@
+- id: Om
+  name: Ami's kitchen
+  url: http://om.dp.ua/
+  description: eat delicious :) vegetarian recipes
+
+- id: Elfinycloud
+  name: Elfinycloud
+  url: https://cloud.elfiny.top/
+  description: Simple cloud storage, for new users only 100 MB
+
+- id: DnuCloud
+  name: DNU in Elfinycloud
+  url: https://dnu.cloud.elfiny.top/
+  description: Many useful stuff for DNU students of PA-17-1 group
+
+- id: SocionicCube
+  name: Socionic cube
+  url: https://elfiny.top/socionic/
+  description: Simple socionic cube
