@@ -43,7 +43,7 @@
   "defaultFileIcon": "lucide//file",
   "defaultFolderIcon": "lucide//folder",
   "defaultMediaIcon": "lucide//file-image",
-  "exportPath": "/home/gaura/ibx/github",
+  "exportPath": "/home/gaura/git/gaurapanasenko/gaurapanasenko.github.io/",
   "filesToExport": [
     [
       "index.md"
