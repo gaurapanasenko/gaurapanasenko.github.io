@@ -4,34 +4,40 @@
     "type": "split",
     "children": [
       {
-        "id": "a840429c87e847f0",
+        "id": "e3cd0a60a7b18363",
         "type": "tabs",
         "children": [
           {
-            "id": "fa4ec412a4b14bf5",
+            "id": "e2440514257e61ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "science_works.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": true
               }
-            }
+            },
+            "group": "d62e2d44e91e001c"
           }
         ]
       },
       {
-        "id": "8672a9e87b5c8deb",
+        "id": "2915dff697dc7487",
         "type": "tabs",
         "children": [
           {
-            "id": "8748907d206f2247",
+            "id": "f23c27324f51eb5b",
             "type": "leaf",
             "state": {
-              "type": "reveal-preview-view",
-              "state": {}
-            }
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "d62e2d44e91e001c"
           }
         ]
       }
@@ -159,19 +165,19 @@
     }
   },
   "floating": {
-    "id": "e097055f346fd638",
+    "id": "8c7f69fc5123a422",
     "type": "floating",
     "children": [
       {
-        "id": "6c8162966958a4a9",
+        "id": "29d4909d6f9592ac",
         "type": "window",
         "children": [
           {
-            "id": "736202f1af80fa07",
+            "id": "5ee75f1138c22ac7",
             "type": "tabs",
             "children": [
               {
-                "id": "4d588c99fc166faf",
+                "id": "75581d93ef9b0200",
                 "type": "leaf",
                 "state": {
                   "type": "empty",
@@ -191,8 +197,10 @@
       }
     ]
   },
-  "active": "4d588c99fc166faf",
+  "active": "75581d93ef9b0200",
   "lastOpenFiles": [
+    "index.md",
+    "favicon.png",
     "science_works.md",
     "export/science_works/plugin/math/mathjax/input/asciimath.js",
     "export/science_works/plugin/math/mathjax/input/mml/extensions/mml3.js",
@@ -204,7 +212,6 @@
     "export/science_works/plugin/math/mathjax/input/tex/extensions/action.js",
     "export/science_works/plugin/math/mathjax/input/tex/extensions/all-packages.js",
     "export/science_works/plugin/math/mathjax/input/tex/extensions/ams.js",
-    "index.md",
     "lib/media/favicon.png",
     "lib/media/874d8b8e340f75575caa.svg",
     "Readme.md",
@@ -215,7 +222,6 @@
     "export/science_works/plugin/chalkboard/img/chalk-yellow.png",
     "export/science_works/plugin/chalkboard/img/chalk-red.png",
     "export/science_works/plugin/chalkboard/img/chalk-green.png",
-    "export/science_works/plugin/chalkboard/img/chalk-orange.png",
     "export/science_works/plugin/chalkboard/README.md",
     "export/science_works/plugin/chart/README.md",
     "export/science_works/plugin/customcontrols/README.md",
