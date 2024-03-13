@@ -1,3 +1,3 @@
 # Useful links
 
-* [Science works](./export/science_works/)
+* [Science works](https://gaurapanasenko.github.io/export/science_works/)
