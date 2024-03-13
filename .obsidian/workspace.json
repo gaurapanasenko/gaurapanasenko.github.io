@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "a0997f18ad1f5358",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f156d6969f1508e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e9ec2b87c4f5b765",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "a840429c87e847f0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e6c6d3194c4f3a32",
+            "type": "leaf",
+            "state": {
+              "type": "reveal-preview-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "df6c8dd9aa4f84a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "778d4c009f9d0f04",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "377ec21e9fdea4b3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "68895d6f1e13b8da",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3335d6c78ee09ea6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f7ca55bc08c6fcee",
+    "type": "split",
+    "children": [
+      {
+        "id": "ddbd1caf1708993f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "863e8385851c76e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "c056745cebad9ef4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3496c0f67be769ff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6d73e9df9ae1fc6c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "floating": {
+    "id": "cd80078f15c5cb5d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "921d51bf7cfc9b8f",
+        "type": "window",
+        "children": [
+          {
+            "id": "99afd50959defa0b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5300808d626d0410",
+                "type": "leaf",
+                "state": {
+                  "type": "empty",
+                  "state": {}
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 0,
+        "y": 0,
+        "width": 1366,
+        "height": 743,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "5300808d626d0410",
+  "lastOpenFiles": [
+    "index.md",
+    "demonstration-of-bezier-surface-rendered-with-shaders-ejqdwgiucu8.mp4",
+    "science_works.md",
+    "lib/search-index.json",
+    "lib/metadata.json",
+    "lib/styles/main-styles.css",
+    "lib/styles/global-variable-styles.css",
+    "lib/styles/obsidian.css",
+    "lib/styles",
+    "lib/scripts/graph-data.js",
+    "lib/media/favicon.png",
+    "lib/scripts/minisearch.js",
+    "lib/scripts/pixi.js",
+    "lib/media/874d8b8e340f75575caa.svg",
+    "Readme.md",
+    "export/science_works/plugin/chalkboard/img/whiteboard.png",
+    "export/science_works/plugin/chalkboard/img/sponge.png",
+    "export/science_works/plugin/chalkboard/img/chalk-white.png",
+    "export/science_works/plugin/chalkboard/img/chalk-purple.png",
+    "export/science_works/plugin/chalkboard/img/chalk-yellow.png",
+    "export/science_works/plugin/chalkboard/img/chalk-red.png",
+    "export/science_works/plugin/chalkboard/img/chalk-green.png",
+    "export/science_works/plugin/chalkboard/img/chalk-orange.png",
+    "export/science_works/plugin/chalkboard/README.md",
+    "export/science_works/plugin/chart/README.md",
+    "export/science_works/plugin/customcontrols/README.md",
+    "export/science_works/plugin/menu/README.md",
+    "export/science_works/plugin/menu/CONTRIBUTING.md",
+    "Welcome.md"
+  ]
+}
