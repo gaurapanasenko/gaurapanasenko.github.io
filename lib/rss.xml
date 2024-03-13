@@ -1,0 +1,13 @@
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[github]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>github</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Wed, 13 Mar 2024 11:24:12 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Wed, 13 Mar 2024 11:24:12 GMT</pubDate><ttl>60</ttl><dc:creator/><item><title><![CDATA[Useful links]]></title><description><![CDATA[ 
+ <br><br>
+<br><a class="internal-link" data-href="science_works" href="/science_works.html" target="_self" rel="noopener">Science_works</a>
+]]></description><link>index.html</link><guid isPermaLink="false">index.md</guid><pubDate>Wed, 13 Mar 2024 11:23:51 GMT</pubDate></item><item><title><![CDATA[Наукові роботи студентів]]></title><description><![CDATA[ 
+ <br><br><br>Фрактальний куб, зроблений на основі фракталу Губки Менгера<br><br><br>Множина Жуліа<br><br><br>Множина Мандельброта<br><br><br>Множина Мандельброта у 3D<br><br><br>Рендеринг супергладких поверхонь<br><br><br>Моделювання дерев<br><br><br>Моделювання росту коралів<br><br><br>
+<br>Фрактальний куб - додаткова робота
+<br>Множина Жуліа - лаботаторна робота
+<br>Множина Мальденброта - лабораторна робота
+<br>Множина Мальденброта у 3D - додаткова робота
+<br>Рендеринг супергладких поверхонь - бакалаврська дипломна робота
+<br>Моделювання дерев - магістерська дипломна робота
+<br>Моделювання росту коралів - магістерська дипломна робота студента Артура Мамедова
+<br><br>]]></description><link>science_works.html</link><guid isPermaLink="false">science_works.md</guid><pubDate>Wed, 13 Mar 2024 10:59:20 GMT</pubDate></item></channel></rss>
