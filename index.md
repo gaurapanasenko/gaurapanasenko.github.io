@@ -1,3 +1,3 @@
 # Useful links
 
-* [Science_works](science_works)
+* [Science works](./science_works/)
