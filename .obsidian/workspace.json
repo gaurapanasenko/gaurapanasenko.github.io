@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7f156d6969f1508e",
+        "id": "a840429c87e847f0",
         "type": "tabs",
         "children": [
           {
-            "id": "e9ec2b87c4f5b765",
+            "id": "fa4ec412a4b14bf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "science_works.md",
                 "mode": "source",
                 "source": true
               }
@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "a840429c87e847f0",
+        "id": "8672a9e87b5c8deb",
         "type": "tabs",
         "children": [
           {
-            "id": "e6c6d3194c4f3a32",
+            "id": "8748907d206f2247",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -159,19 +159,19 @@
     }
   },
   "floating": {
-    "id": "cd80078f15c5cb5d",
+    "id": "e097055f346fd638",
     "type": "floating",
     "children": [
       {
-        "id": "921d51bf7cfc9b8f",
+        "id": "6c8162966958a4a9",
         "type": "window",
         "children": [
           {
-            "id": "99afd50959defa0b",
+            "id": "736202f1af80fa07",
             "type": "tabs",
             "children": [
               {
-                "id": "5300808d626d0410",
+                "id": "4d588c99fc166faf",
                 "type": "leaf",
                 "state": {
                   "type": "empty",
@@ -191,21 +191,21 @@
       }
     ]
   },
-  "active": "5300808d626d0410",
+  "active": "4d588c99fc166faf",
   "lastOpenFiles": [
-    "index.md",
-    "demonstration-of-bezier-surface-rendered-with-shaders-ejqdwgiucu8.mp4",
     "science_works.md",
-    "lib/search-index.json",
-    "lib/metadata.json",
-    "lib/styles/main-styles.css",
-    "lib/styles/global-variable-styles.css",
-    "lib/styles/obsidian.css",
-    "lib/styles",
-    "lib/scripts/graph-data.js",
+    "export/science_works/plugin/math/mathjax/input/asciimath.js",
+    "export/science_works/plugin/math/mathjax/input/mml/extensions/mml3.js",
+    "export/science_works/plugin/math/mathjax/input/mml/extensions/mml3.sef.json",
+    "export/science_works/plugin/math/mathjax/input/mml/entities.js",
+    "export/science_works/plugin/math/mathjax/input/mml/extensions",
+    "export/science_works/plugin/math/mathjax/input/mml",
+    "export/science_works/plugin/math/mathjax/input/mml.js",
+    "export/science_works/plugin/math/mathjax/input/tex/extensions/action.js",
+    "export/science_works/plugin/math/mathjax/input/tex/extensions/all-packages.js",
+    "export/science_works/plugin/math/mathjax/input/tex/extensions/ams.js",
+    "index.md",
     "lib/media/favicon.png",
-    "lib/scripts/minisearch.js",
-    "lib/scripts/pixi.js",
     "lib/media/874d8b8e340f75575caa.svg",
     "Readme.md",
     "export/science_works/plugin/chalkboard/img/whiteboard.png",
