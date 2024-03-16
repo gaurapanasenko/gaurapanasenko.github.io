@@ -1,55 +1,77 @@
 {
   "vaultName": "doc",
-  "lastExport": 1710541325021,
+  "lastExport": 1710628064037,
   "pluginVersion": "1.8.01",
-  "validBodyClasses": "publish css-settings-manager theme-dark show-inline-title",
+  "validBodyClasses": "publish css-settings-manager show-inline-title theme-light",
   "useCustomHeadContent": false,
   "useCustomFavicon": false,
   "files": [
-    "Графіки 1/DET.png",
-    "Графіки 1/DET_RR.png",
-    "Графіки 1/DIV.png",
-    "Графіки 1/L.png",
-    "Графіки 1/L_entr.png",
-    "Графіки 1/L_max.png",
-    "Графіки 1/L_min.png",
-    "Графіки 1/LAM.png",
-    "Графіки 1/LAM_DET.png",
-    "Графіки 1/m.png",
-    "Графіки 1/RR.png",
-    "Графіки 1/tau.png",
-    "Графіки 1/TT.png",
-    "Графіки 1/V_entr.png",
-    "Графіки 1/V_max.png",
-    "Графіки 1/V_min.png",
-    "Графіки 1/W.png",
-    "Графіки 1/W_div.png",
-    "Графіки 1/W_entr.png",
-    "Графіки 1/W_max.png",
-    "Графіки 1/W_min.png",
-    "Графіки 2/DET.png",
-    "Графіки 2/DET_RR.png",
-    "Графіки 2/DIV.png",
-    "Графіки 2/L.png",
-    "Графіки 2/L_entr.png",
-    "Графіки 2/L_max.png",
-    "Графіки 2/L_min.png",
-    "Графіки 2/LAM.png",
-    "Графіки 2/LAM_DET.png",
-    "Графіки 2/m.png",
-    "Графіки 2/RR.png",
-    "Графіки 2/tau.png",
-    "Графіки 2/TT.png",
-    "Графіки 2/V_entr.png",
-    "Графіки 2/V_max.png",
-    "Графіки 2/V_min.png",
-    "Графіки 2/W.png",
-    "Графіки 2/W_div.png",
-    "Графіки 2/W_entr.png",
-    "Графіки 2/W_max.png",
-    "Графіки 2/W_min.png",
-    "Оброблення бази данних (ітерація 1).md",
-    "Оброблення бази данних (ітерація 2).md",
+    "Plot 1/DET.png",
+    "Plot 1/DET_RR.png",
+    "Plot 1/DIV.png",
+    "Plot 1/L.png",
+    "Plot 1/L_entr.png",
+    "Plot 1/L_max.png",
+    "Plot 1/L_min.png",
+    "Plot 1/LAM.png",
+    "Plot 1/LAM_DET.png",
+    "Plot 1/m.png",
+    "Plot 1/RR.png",
+    "Plot 1/tau.png",
+    "Plot 1/TT.png",
+    "Plot 1/V_entr.png",
+    "Plot 1/V_max.png",
+    "Plot 1/V_min.png",
+    "Plot 1/W.png",
+    "Plot 1/W_div.png",
+    "Plot 1/W_entr.png",
+    "Plot 1/W_max.png",
+    "Plot 1/W_min.png",
+    "Plot 2/DET.png",
+    "Plot 2/DET_RR.png",
+    "Plot 2/DIV.png",
+    "Plot 2/L.png",
+    "Plot 2/L_entr.png",
+    "Plot 2/L_max.png",
+    "Plot 2/L_min.png",
+    "Plot 2/LAM.png",
+    "Plot 2/LAM_DET.png",
+    "Plot 2/m.png",
+    "Plot 2/RR.png",
+    "Plot 2/tau.png",
+    "Plot 2/TT.png",
+    "Plot 2/V_entr.png",
+    "Plot 2/V_max.png",
+    "Plot 2/V_min.png",
+    "Plot 2/W.png",
+    "Plot 2/W_div.png",
+    "Plot 2/W_entr.png",
+    "Plot 2/W_max.png",
+    "Plot 2/W_min.png",
+    "Plot 3/DET.png",
+    "Plot 3/DET_RR.png",
+    "Plot 3/DIV.png",
+    "Plot 3/L.png",
+    "Plot 3/L_entr.png",
+    "Plot 3/L_max.png",
+    "Plot 3/L_min.png",
+    "Plot 3/LAM.png",
+    "Plot 3/LAM_DET.png",
+    "Plot 3/m.png",
+    "Plot 3/RR.png",
+    "Plot 3/tau.png",
+    "Plot 3/TT.png",
+    "Plot 3/V_entr.png",
+    "Plot 3/V_max.png",
+    "Plot 3/V_min.png",
+    "Plot 3/W.png",
+    "Plot 3/W_div.png",
+    "Plot 3/W_entr.png",
+    "Plot 3/W_max.png",
+    "Plot 3/W_min.png",
+    "Dataset processing (1st iteration).md",
+    "Dataset processing (2nd iteration).md",
+    "Dataset processing (3nd iteration).md",
     "lib/scripts/graph-wasm.wasm",
     "lib/fonts/94f2f163d4b698242fef.otf",
     "lib/fonts/72505e6a122c6acd5471.woff2",
@@ -154,862 +176,1142 @@
     "lib/styles/main-styles.css"
   ],
   "fileInfo": {
-    "Графіки 1/DET.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/DET.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 29918,
-      "exportedPath": "графіки-1/det.png",
+      "exportedPath": "plot-1/det.png",
       "dependencies": []
     },
-    "Графіки 1/DET_RR.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/DET_RR.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 37332,
-      "exportedPath": "графіки-1/det_rr.png",
+      "exportedPath": "plot-1/det_rr.png",
       "dependencies": []
     },
-    "Графіки 1/DIV.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/DIV.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 32326,
-      "exportedPath": "графіки-1/div.png",
+      "exportedPath": "plot-1/div.png",
       "dependencies": []
     },
-    "Графіки 1/L.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/L.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 37387,
-      "exportedPath": "графіки-1/l.png",
+      "exportedPath": "plot-1/l.png",
       "dependencies": []
     },
-    "Графіки 1/L_entr.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/L_entr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 38155,
-      "exportedPath": "графіки-1/l_entr.png",
+      "exportedPath": "plot-1/l_entr.png",
       "dependencies": []
     },
-    "Графіки 1/L_max.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/L_max.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 38119,
-      "exportedPath": "графіки-1/l_max.png",
+      "exportedPath": "plot-1/l_max.png",
       "dependencies": []
     },
-    "Графіки 1/L_min.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/L_min.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 25091,
-      "exportedPath": "графіки-1/l_min.png",
+      "exportedPath": "plot-1/l_min.png",
       "dependencies": []
     },
-    "Графіки 1/LAM.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/LAM.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 37162,
-      "exportedPath": "графіки-1/lam.png",
+      "exportedPath": "plot-1/lam.png",
       "dependencies": []
     },
-    "Графіки 1/LAM_DET.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/LAM_DET.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 32725,
-      "exportedPath": "графіки-1/lam_det.png",
+      "exportedPath": "plot-1/lam_det.png",
       "dependencies": []
     },
-    "Графіки 1/m.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/m.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 38626,
-      "exportedPath": "графіки-1/m.png",
+      "exportedPath": "plot-1/m.png",
       "dependencies": []
     },
-    "Графіки 1/RR.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/RR.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 29970,
-      "exportedPath": "графіки-1/rr.png",
+      "exportedPath": "plot-1/rr.png",
       "dependencies": []
     },
-    "Графіки 1/tau.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/tau.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 28764,
-      "exportedPath": "графіки-1/tau.png",
+      "exportedPath": "plot-1/tau.png",
       "dependencies": []
     },
-    "Графіки 1/TT.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/TT.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 37512,
-      "exportedPath": "графіки-1/tt.png",
+      "exportedPath": "plot-1/tt.png",
       "dependencies": []
     },
-    "Графіки 1/V_entr.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/V_entr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 34022,
-      "exportedPath": "графіки-1/v_entr.png",
+      "exportedPath": "plot-1/v_entr.png",
       "dependencies": []
     },
-    "Графіки 1/V_max.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/V_max.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 38407,
-      "exportedPath": "графіки-1/v_max.png",
+      "exportedPath": "plot-1/v_max.png",
       "dependencies": []
     },
-    "Графіки 1/V_min.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/V_min.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 25248,
-      "exportedPath": "графіки-1/v_min.png",
+      "exportedPath": "plot-1/v_min.png",
       "dependencies": []
     },
-    "Графіки 1/W.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/W.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 32048,
-      "exportedPath": "графіки-1/w.png",
+      "exportedPath": "plot-1/w.png",
       "dependencies": []
     },
-    "Графіки 1/W_div.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/W_div.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 33733,
-      "exportedPath": "графіки-1/w_div.png",
+      "exportedPath": "plot-1/w_div.png",
       "dependencies": []
     },
-    "Графіки 1/W_entr.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/W_entr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 29764,
-      "exportedPath": "графіки-1/w_entr.png",
+      "exportedPath": "plot-1/w_entr.png",
       "dependencies": []
     },
-    "Графіки 1/W_max.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/W_max.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 31467,
-      "exportedPath": "графіки-1/w_max.png",
+      "exportedPath": "plot-1/w_max.png",
       "dependencies": []
     },
-    "Графіки 1/W_min.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 1/W_min.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 26070,
-      "exportedPath": "графіки-1/w_min.png",
+      "exportedPath": "plot-1/w_min.png",
       "dependencies": []
     },
-    "Графіки 2/DET.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/DET.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 31884,
-      "exportedPath": "графіки-2/det.png",
+      "exportedPath": "plot-2/det.png",
       "dependencies": []
     },
-    "Графіки 2/DET_RR.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/DET_RR.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 40096,
-      "exportedPath": "графіки-2/det_rr.png",
+      "exportedPath": "plot-2/det_rr.png",
       "dependencies": []
     },
-    "Графіки 2/DIV.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/DIV.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 31019,
-      "exportedPath": "графіки-2/div.png",
+      "exportedPath": "plot-2/div.png",
       "dependencies": []
     },
-    "Графіки 2/L.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/L.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 38579,
-      "exportedPath": "графіки-2/l.png",
+      "exportedPath": "plot-2/l.png",
       "dependencies": []
     },
-    "Графіки 2/L_entr.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/L_entr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 34558,
-      "exportedPath": "графіки-2/l_entr.png",
+      "exportedPath": "plot-2/l_entr.png",
       "dependencies": []
     },
-    "Графіки 2/L_max.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/L_max.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 38041,
-      "exportedPath": "графіки-2/l_max.png",
+      "exportedPath": "plot-2/l_max.png",
       "dependencies": []
     },
-    "Графіки 2/L_min.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/L_min.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 23989,
-      "exportedPath": "графіки-2/l_min.png",
+      "exportedPath": "plot-2/l_min.png",
       "dependencies": []
     },
-    "Графіки 2/LAM.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/LAM.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 33760,
-      "exportedPath": "графіки-2/lam.png",
+      "exportedPath": "plot-2/lam.png",
       "dependencies": []
     },
-    "Графіки 2/LAM_DET.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/LAM_DET.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 37170,
-      "exportedPath": "графіки-2/lam_det.png",
+      "exportedPath": "plot-2/lam_det.png",
       "dependencies": []
     },
-    "Графіки 2/m.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/m.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 23721,
-      "exportedPath": "графіки-2/m.png",
+      "exportedPath": "plot-2/m.png",
       "dependencies": []
     },
-    "Графіки 2/RR.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/RR.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 35523,
-      "exportedPath": "графіки-2/rr.png",
+      "exportedPath": "plot-2/rr.png",
       "dependencies": []
     },
-    "Графіки 2/tau.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/tau.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 23928,
-      "exportedPath": "графіки-2/tau.png",
+      "exportedPath": "plot-2/tau.png",
       "dependencies": []
     },
-    "Графіки 2/TT.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/TT.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 35107,
-      "exportedPath": "графіки-2/tt.png",
+      "exportedPath": "plot-2/tt.png",
       "dependencies": []
     },
-    "Графіки 2/V_entr.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/V_entr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 34212,
-      "exportedPath": "графіки-2/v_entr.png",
+      "exportedPath": "plot-2/v_entr.png",
       "dependencies": []
     },
-    "Графіки 2/V_max.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/V_max.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 34161,
-      "exportedPath": "графіки-2/v_max.png",
+      "exportedPath": "plot-2/v_max.png",
       "dependencies": []
     },
-    "Графіки 2/V_min.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/V_min.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 24145,
-      "exportedPath": "графіки-2/v_min.png",
+      "exportedPath": "plot-2/v_min.png",
       "dependencies": []
     },
-    "Графіки 2/W.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/W.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 31834,
-      "exportedPath": "графіки-2/w.png",
+      "exportedPath": "plot-2/w.png",
       "dependencies": []
     },
-    "Графіки 2/W_div.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/W_div.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 32115,
-      "exportedPath": "графіки-2/w_div.png",
+      "exportedPath": "plot-2/w_div.png",
       "dependencies": []
     },
-    "Графіки 2/W_entr.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/W_entr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 27908,
-      "exportedPath": "графіки-2/w_entr.png",
+      "exportedPath": "plot-2/w_entr.png",
       "dependencies": []
     },
-    "Графіки 2/W_max.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/W_max.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 29991,
-      "exportedPath": "графіки-2/w_max.png",
+      "exportedPath": "plot-2/w_max.png",
       "dependencies": []
     },
-    "Графіки 2/W_min.png": {
-      "modifiedTime": 1710541325021,
+    "Plot 2/W_min.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 24966,
-      "exportedPath": "графіки-2/w_min.png",
+      "exportedPath": "plot-2/w_min.png",
       "dependencies": []
     },
-    "Оброблення бази данних (ітерація 1).md": {
-      "modifiedTime": 1710541325021,
-      "sourceSize": 7346,
-      "exportedPath": "оброблення-бази-данних-(ітерація-1).html",
+    "Plot 3/DET.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 37565,
+      "exportedPath": "plot-3/det.png",
+      "dependencies": []
+    },
+    "Plot 3/DET_RR.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 45081,
+      "exportedPath": "plot-3/det_rr.png",
+      "dependencies": []
+    },
+    "Plot 3/DIV.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 35241,
+      "exportedPath": "plot-3/div.png",
+      "dependencies": []
+    },
+    "Plot 3/L.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 44478,
+      "exportedPath": "plot-3/l.png",
+      "dependencies": []
+    },
+    "Plot 3/L_entr.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 38538,
+      "exportedPath": "plot-3/l_entr.png",
+      "dependencies": []
+    },
+    "Plot 3/L_max.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 41925,
+      "exportedPath": "plot-3/l_max.png",
+      "dependencies": []
+    },
+    "Plot 3/L_min.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 24740,
+      "exportedPath": "plot-3/l_min.png",
+      "dependencies": []
+    },
+    "Plot 3/LAM.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 38013,
+      "exportedPath": "plot-3/lam.png",
+      "dependencies": []
+    },
+    "Plot 3/LAM_DET.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 41745,
+      "exportedPath": "plot-3/lam_det.png",
+      "dependencies": []
+    },
+    "Plot 3/m.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 24422,
+      "exportedPath": "plot-3/m.png",
+      "dependencies": []
+    },
+    "Plot 3/RR.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 36645,
+      "exportedPath": "plot-3/rr.png",
+      "dependencies": []
+    },
+    "Plot 3/tau.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 24746,
+      "exportedPath": "plot-3/tau.png",
+      "dependencies": []
+    },
+    "Plot 3/TT.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 39768,
+      "exportedPath": "plot-3/tt.png",
+      "dependencies": []
+    },
+    "Plot 3/V_entr.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 37707,
+      "exportedPath": "plot-3/v_entr.png",
+      "dependencies": []
+    },
+    "Plot 3/V_max.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 37356,
+      "exportedPath": "plot-3/v_max.png",
+      "dependencies": []
+    },
+    "Plot 3/V_min.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 24908,
+      "exportedPath": "plot-3/v_min.png",
+      "dependencies": []
+    },
+    "Plot 3/W.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 33400,
+      "exportedPath": "plot-3/w.png",
+      "dependencies": []
+    },
+    "Plot 3/W_div.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 33372,
+      "exportedPath": "plot-3/w_div.png",
+      "dependencies": []
+    },
+    "Plot 3/W_entr.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 29322,
+      "exportedPath": "plot-3/w_entr.png",
+      "dependencies": []
+    },
+    "Plot 3/W_max.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 31588,
+      "exportedPath": "plot-3/w_max.png",
+      "dependencies": []
+    },
+    "Plot 3/W_min.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 25725,
+      "exportedPath": "plot-3/w_min.png",
+      "dependencies": []
+    },
+    "Dataset processing (1st iteration).md": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 7198,
+      "exportedPath": "dataset-processing-(1st-iteration).html",
       "dependencies": [
-        "графіки-1/tau.png",
-        "графіки-1/m.png",
-        "графіки-1/l_min.png",
-        "графіки-1/v_min.png",
-        "графіки-1/w_min.png",
-        "графіки-1/rr.png",
-        "графіки-1/det.png",
-        "графіки-1/l.png",
-        "графіки-1/l_max.png",
-        "графіки-1/div.png",
-        "графіки-1/l_entr.png",
-        "графіки-1/lam.png",
-        "графіки-1/tt.png",
-        "графіки-1/v_max.png",
-        "графіки-1/v_entr.png",
-        "графіки-1/w.png",
-        "графіки-1/w_max.png",
-        "графіки-1/w_div.png",
-        "графіки-1/w_entr.png",
-        "графіки-1/det_rr.png",
-        "графіки-1/lam_det.png"
+        "plot-1/tau.png",
+        "plot-1/m.png",
+        "plot-1/l_min.png",
+        "plot-1/v_min.png",
+        "plot-1/w_min.png",
+        "plot-1/rr.png",
+        "plot-1/det.png",
+        "plot-1/l.png",
+        "plot-1/l_max.png",
+        "plot-1/div.png",
+        "plot-1/l_entr.png",
+        "plot-1/lam.png",
+        "plot-1/tt.png",
+        "plot-1/v_max.png",
+        "plot-1/v_entr.png",
+        "plot-1/w.png",
+        "plot-1/w_max.png",
+        "plot-1/w_div.png",
+        "plot-1/w_entr.png",
+        "plot-1/det_rr.png",
+        "plot-1/lam_det.png"
       ]
     },
-    "Оброблення бази данних (ітерація 2).md": {
-      "modifiedTime": 1710541325021,
-      "sourceSize": 7110,
-      "exportedPath": "оброблення-бази-данних-(ітерація-2).html",
+    "Dataset processing (2nd iteration).md": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 6962,
+      "exportedPath": "dataset-processing-(2nd-iteration).html",
       "dependencies": [
-        "графіки-2/tau.png",
-        "графіки-2/m.png",
-        "графіки-2/l_min.png",
-        "графіки-2/v_min.png",
-        "графіки-2/w_min.png",
-        "графіки-2/rr.png",
-        "графіки-2/det.png",
-        "графіки-2/l.png",
-        "графіки-2/l_max.png",
-        "графіки-2/div.png",
-        "графіки-2/l_entr.png",
-        "графіки-2/lam.png",
-        "графіки-2/tt.png",
-        "графіки-2/v_max.png",
-        "графіки-2/v_entr.png",
-        "графіки-2/w.png",
-        "графіки-2/w_max.png",
-        "графіки-2/w_div.png",
-        "графіки-2/w_entr.png",
-        "графіки-2/det_rr.png",
-        "графіки-2/lam_det.png"
+        "plot-2/tau.png",
+        "plot-2/m.png",
+        "plot-2/l_min.png",
+        "plot-2/v_min.png",
+        "plot-2/w_min.png",
+        "plot-2/rr.png",
+        "plot-2/det.png",
+        "plot-2/l.png",
+        "plot-2/l_max.png",
+        "plot-2/div.png",
+        "plot-2/l_entr.png",
+        "plot-2/lam.png",
+        "plot-2/tt.png",
+        "plot-2/v_max.png",
+        "plot-2/v_entr.png",
+        "plot-2/w.png",
+        "plot-2/w_max.png",
+        "plot-2/w_div.png",
+        "plot-2/w_entr.png",
+        "plot-2/det_rr.png",
+        "plot-2/lam_det.png"
       ]
     },
-    "графіки-1/tau.png": {
-      "modifiedTime": 1710541325021,
+    "Dataset processing (3nd iteration).md": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 7215,
+      "exportedPath": "dataset-processing-(3nd-iteration).html",
+      "dependencies": [
+        "plot-3/tau.png",
+        "plot-3/m.png",
+        "plot-3/l_min.png",
+        "plot-3/v_min.png",
+        "plot-3/w_min.png",
+        "plot-3/rr.png",
+        "plot-3/det.png",
+        "plot-3/l.png",
+        "plot-3/l_max.png",
+        "plot-3/div.png",
+        "plot-3/l_entr.png",
+        "plot-3/lam.png",
+        "plot-3/tt.png",
+        "plot-3/v_max.png",
+        "plot-3/v_entr.png",
+        "plot-3/w.png",
+        "plot-3/w_max.png",
+        "plot-3/w_div.png",
+        "plot-3/w_entr.png",
+        "plot-3/det_rr.png",
+        "plot-3/lam_det.png"
+      ]
+    },
+    "plot-1/tau.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 28764,
-      "exportedPath": "графіки-1/tau.png",
+      "exportedPath": "plot-1/tau.png",
       "dependencies": []
     },
-    "графіки-1/m.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/m.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 38626,
-      "exportedPath": "графіки-1/m.png",
+      "exportedPath": "plot-1/m.png",
       "dependencies": []
     },
-    "графіки-1/l_min.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/l_min.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 25091,
-      "exportedPath": "графіки-1/l_min.png",
+      "exportedPath": "plot-1/l_min.png",
       "dependencies": []
     },
-    "графіки-1/v_min.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/v_min.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 25248,
-      "exportedPath": "графіки-1/v_min.png",
+      "exportedPath": "plot-1/v_min.png",
       "dependencies": []
     },
-    "графіки-1/w_min.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/w_min.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 26070,
-      "exportedPath": "графіки-1/w_min.png",
+      "exportedPath": "plot-1/w_min.png",
       "dependencies": []
     },
-    "графіки-1/rr.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/rr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 29970,
-      "exportedPath": "графіки-1/rr.png",
+      "exportedPath": "plot-1/rr.png",
       "dependencies": []
     },
-    "графіки-1/det.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/det.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 29918,
-      "exportedPath": "графіки-1/det.png",
+      "exportedPath": "plot-1/det.png",
       "dependencies": []
     },
-    "графіки-1/l.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/l.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 37387,
-      "exportedPath": "графіки-1/l.png",
+      "exportedPath": "plot-1/l.png",
       "dependencies": []
     },
-    "графіки-1/l_max.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/l_max.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 38119,
-      "exportedPath": "графіки-1/l_max.png",
+      "exportedPath": "plot-1/l_max.png",
       "dependencies": []
     },
-    "графіки-1/div.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/div.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 32326,
-      "exportedPath": "графіки-1/div.png",
+      "exportedPath": "plot-1/div.png",
       "dependencies": []
     },
-    "графіки-1/l_entr.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/l_entr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 38155,
-      "exportedPath": "графіки-1/l_entr.png",
+      "exportedPath": "plot-1/l_entr.png",
       "dependencies": []
     },
-    "графіки-1/lam.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/lam.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 37162,
-      "exportedPath": "графіки-1/lam.png",
+      "exportedPath": "plot-1/lam.png",
       "dependencies": []
     },
-    "графіки-1/tt.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/tt.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 37512,
-      "exportedPath": "графіки-1/tt.png",
+      "exportedPath": "plot-1/tt.png",
       "dependencies": []
     },
-    "графіки-1/v_max.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/v_max.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 38407,
-      "exportedPath": "графіки-1/v_max.png",
+      "exportedPath": "plot-1/v_max.png",
       "dependencies": []
     },
-    "графіки-1/v_entr.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/v_entr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 34022,
-      "exportedPath": "графіки-1/v_entr.png",
+      "exportedPath": "plot-1/v_entr.png",
       "dependencies": []
     },
-    "графіки-1/w.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/w.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 32048,
-      "exportedPath": "графіки-1/w.png",
+      "exportedPath": "plot-1/w.png",
       "dependencies": []
     },
-    "графіки-1/w_max.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/w_max.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 31467,
-      "exportedPath": "графіки-1/w_max.png",
+      "exportedPath": "plot-1/w_max.png",
       "dependencies": []
     },
-    "графіки-1/w_div.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/w_div.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 33733,
-      "exportedPath": "графіки-1/w_div.png",
+      "exportedPath": "plot-1/w_div.png",
       "dependencies": []
     },
-    "графіки-1/w_entr.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/w_entr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 29764,
-      "exportedPath": "графіки-1/w_entr.png",
+      "exportedPath": "plot-1/w_entr.png",
       "dependencies": []
     },
-    "графіки-1/det_rr.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/det_rr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 37332,
-      "exportedPath": "графіки-1/det_rr.png",
+      "exportedPath": "plot-1/det_rr.png",
       "dependencies": []
     },
-    "графіки-1/lam_det.png": {
-      "modifiedTime": 1710541325021,
+    "plot-1/lam_det.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 32725,
-      "exportedPath": "графіки-1/lam_det.png",
+      "exportedPath": "plot-1/lam_det.png",
       "dependencies": []
     },
-    "графіки-2/tau.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/tau.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 23928,
-      "exportedPath": "графіки-2/tau.png",
+      "exportedPath": "plot-2/tau.png",
       "dependencies": []
     },
-    "графіки-2/m.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/m.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 23721,
-      "exportedPath": "графіки-2/m.png",
+      "exportedPath": "plot-2/m.png",
       "dependencies": []
     },
-    "графіки-2/l_min.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/l_min.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 23989,
-      "exportedPath": "графіки-2/l_min.png",
+      "exportedPath": "plot-2/l_min.png",
       "dependencies": []
     },
-    "графіки-2/v_min.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/v_min.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 24145,
-      "exportedPath": "графіки-2/v_min.png",
+      "exportedPath": "plot-2/v_min.png",
       "dependencies": []
     },
-    "графіки-2/w_min.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/w_min.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 24966,
-      "exportedPath": "графіки-2/w_min.png",
+      "exportedPath": "plot-2/w_min.png",
       "dependencies": []
     },
-    "графіки-2/rr.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/rr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 35523,
-      "exportedPath": "графіки-2/rr.png",
+      "exportedPath": "plot-2/rr.png",
       "dependencies": []
     },
-    "графіки-2/det.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/det.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 31884,
-      "exportedPath": "графіки-2/det.png",
+      "exportedPath": "plot-2/det.png",
       "dependencies": []
     },
-    "графіки-2/l.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/l.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 38579,
-      "exportedPath": "графіки-2/l.png",
+      "exportedPath": "plot-2/l.png",
       "dependencies": []
     },
-    "графіки-2/l_max.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/l_max.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 38041,
-      "exportedPath": "графіки-2/l_max.png",
+      "exportedPath": "plot-2/l_max.png",
       "dependencies": []
     },
-    "графіки-2/div.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/div.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 31019,
-      "exportedPath": "графіки-2/div.png",
+      "exportedPath": "plot-2/div.png",
       "dependencies": []
     },
-    "графіки-2/l_entr.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/l_entr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 34558,
-      "exportedPath": "графіки-2/l_entr.png",
+      "exportedPath": "plot-2/l_entr.png",
       "dependencies": []
     },
-    "графіки-2/lam.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/lam.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 33760,
-      "exportedPath": "графіки-2/lam.png",
+      "exportedPath": "plot-2/lam.png",
       "dependencies": []
     },
-    "графіки-2/tt.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/tt.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 35107,
-      "exportedPath": "графіки-2/tt.png",
+      "exportedPath": "plot-2/tt.png",
       "dependencies": []
     },
-    "графіки-2/v_max.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/v_max.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 34161,
-      "exportedPath": "графіки-2/v_max.png",
+      "exportedPath": "plot-2/v_max.png",
       "dependencies": []
     },
-    "графіки-2/v_entr.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/v_entr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 34212,
-      "exportedPath": "графіки-2/v_entr.png",
+      "exportedPath": "plot-2/v_entr.png",
       "dependencies": []
     },
-    "графіки-2/w.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/w.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 31834,
-      "exportedPath": "графіки-2/w.png",
+      "exportedPath": "plot-2/w.png",
       "dependencies": []
     },
-    "графіки-2/w_max.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/w_max.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 29991,
-      "exportedPath": "графіки-2/w_max.png",
+      "exportedPath": "plot-2/w_max.png",
       "dependencies": []
     },
-    "графіки-2/w_div.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/w_div.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 32115,
-      "exportedPath": "графіки-2/w_div.png",
+      "exportedPath": "plot-2/w_div.png",
       "dependencies": []
     },
-    "графіки-2/w_entr.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/w_entr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 27908,
-      "exportedPath": "графіки-2/w_entr.png",
+      "exportedPath": "plot-2/w_entr.png",
       "dependencies": []
     },
-    "графіки-2/det_rr.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/det_rr.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 40096,
-      "exportedPath": "графіки-2/det_rr.png",
+      "exportedPath": "plot-2/det_rr.png",
       "dependencies": []
     },
-    "графіки-2/lam_det.png": {
-      "modifiedTime": 1710541325021,
+    "plot-2/lam_det.png": {
+      "modifiedTime": 1710628064037,
       "sourceSize": 37170,
-      "exportedPath": "графіки-2/lam_det.png",
+      "exportedPath": "plot-2/lam_det.png",
+      "dependencies": []
+    },
+    "plot-3/tau.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 24746,
+      "exportedPath": "plot-3/tau.png",
+      "dependencies": []
+    },
+    "plot-3/m.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 24422,
+      "exportedPath": "plot-3/m.png",
+      "dependencies": []
+    },
+    "plot-3/l_min.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 24740,
+      "exportedPath": "plot-3/l_min.png",
+      "dependencies": []
+    },
+    "plot-3/v_min.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 24908,
+      "exportedPath": "plot-3/v_min.png",
+      "dependencies": []
+    },
+    "plot-3/w_min.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 25725,
+      "exportedPath": "plot-3/w_min.png",
+      "dependencies": []
+    },
+    "plot-3/rr.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 36645,
+      "exportedPath": "plot-3/rr.png",
+      "dependencies": []
+    },
+    "plot-3/det.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 37565,
+      "exportedPath": "plot-3/det.png",
+      "dependencies": []
+    },
+    "plot-3/l.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 44478,
+      "exportedPath": "plot-3/l.png",
+      "dependencies": []
+    },
+    "plot-3/l_max.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 41925,
+      "exportedPath": "plot-3/l_max.png",
+      "dependencies": []
+    },
+    "plot-3/div.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 35241,
+      "exportedPath": "plot-3/div.png",
+      "dependencies": []
+    },
+    "plot-3/l_entr.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 38538,
+      "exportedPath": "plot-3/l_entr.png",
+      "dependencies": []
+    },
+    "plot-3/lam.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 38013,
+      "exportedPath": "plot-3/lam.png",
+      "dependencies": []
+    },
+    "plot-3/tt.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 39768,
+      "exportedPath": "plot-3/tt.png",
+      "dependencies": []
+    },
+    "plot-3/v_max.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 37356,
+      "exportedPath": "plot-3/v_max.png",
+      "dependencies": []
+    },
+    "plot-3/v_entr.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 37707,
+      "exportedPath": "plot-3/v_entr.png",
+      "dependencies": []
+    },
+    "plot-3/w.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 33400,
+      "exportedPath": "plot-3/w.png",
+      "dependencies": []
+    },
+    "plot-3/w_max.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 31588,
+      "exportedPath": "plot-3/w_max.png",
+      "dependencies": []
+    },
+    "plot-3/w_div.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 33372,
+      "exportedPath": "plot-3/w_div.png",
+      "dependencies": []
+    },
+    "plot-3/w_entr.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 29322,
+      "exportedPath": "plot-3/w_entr.png",
+      "dependencies": []
+    },
+    "plot-3/det_rr.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 45081,
+      "exportedPath": "plot-3/det_rr.png",
+      "dependencies": []
+    },
+    "plot-3/lam_det.png": {
+      "modifiedTime": 1710628064037,
+      "sourceSize": 41745,
+      "exportedPath": "plot-3/lam_det.png",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.wasm": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 23377,
       "exportedPath": "lib/scripts/graph-wasm.wasm",
       "dependencies": []
     },
     "lib/fonts/94f2f163d4b698242fef.otf": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 66800,
       "exportedPath": "lib/fonts/94f2f163d4b698242fef.otf",
       "dependencies": []
     },
     "lib/fonts/72505e6a122c6acd5471.woff2": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 104232,
       "exportedPath": "lib/fonts/72505e6a122c6acd5471.woff2",
       "dependencies": []
     },
     "lib/fonts/2d5198822ab091ce4305.woff2": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 104332,
       "exportedPath": "lib/fonts/2d5198822ab091ce4305.woff2",
       "dependencies": []
     },
     "lib/fonts/c8ba52b05a9ef10f4758.woff2": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 98868,
       "exportedPath": "lib/fonts/c8ba52b05a9ef10f4758.woff2",
       "dependencies": []
     },
     "lib/fonts/cb10ffd7684cd9836a05.woff2": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 106876,
       "exportedPath": "lib/fonts/cb10ffd7684cd9836a05.woff2",
       "dependencies": []
     },
     "lib/fonts/b5f0f109bc88052d4000.woff2": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 105804,
       "exportedPath": "lib/fonts/b5f0f109bc88052d4000.woff2",
       "dependencies": []
     },
     "lib/fonts/cbe0ae49c52c920fd563.woff2": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 106108,
       "exportedPath": "lib/fonts/cbe0ae49c52c920fd563.woff2",
       "dependencies": []
     },
     "lib/fonts/535a6cf662596b3bd6a6.woff2": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 111708,
       "exportedPath": "lib/fonts/535a6cf662596b3bd6a6.woff2",
       "dependencies": []
     },
     "lib/fonts/70cc7ff27245e82ad414.ttf": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 192740,
       "exportedPath": "lib/fonts/70cc7ff27245e82ad414.ttf",
       "dependencies": []
     },
     "lib/fonts/454577c22304619db035.ttf": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 161376,
       "exportedPath": "lib/fonts/454577c22304619db035.ttf",
       "dependencies": []
     },
     "lib/fonts/52ac8f3034507f1d9e53.ttf": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 191568,
       "exportedPath": "lib/fonts/52ac8f3034507f1d9e53.ttf",
       "dependencies": []
     },
     "lib/fonts/05b618077343fbbd92b7.ttf": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 155288,
       "exportedPath": "lib/fonts/05b618077343fbbd92b7.ttf",
       "dependencies": []
     },
     "lib/fonts/4bb6ac751d1c5478ff3a.woff2": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 7876,
       "exportedPath": "lib/fonts/4bb6ac751d1c5478ff3a.woff2",
       "dependencies": []
     },
     "lib/media/874d8b8e340f75575caa.svg": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 317,
       "exportedPath": "lib/media/874d8b8e340f75575caa.svg",
       "dependencies": []
     },
     "lib/fonts/mathjax_zero.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 1368,
       "exportedPath": "lib/fonts/mathjax_zero.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-regular.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 34160,
       "exportedPath": "lib/fonts/mathjax_main-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-bold.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 34464,
       "exportedPath": "lib/fonts/mathjax_main-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-italic.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 19360,
       "exportedPath": "lib/fonts/mathjax_math-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_main-italic.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 20832,
       "exportedPath": "lib/fonts/mathjax_main-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_math-bolditalic.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 19776,
       "exportedPath": "lib/fonts/mathjax_math-bolditalic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size1-regular.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 5792,
       "exportedPath": "lib/fonts/mathjax_size1-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size2-regular.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 5464,
       "exportedPath": "lib/fonts/mathjax_size2-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size3-regular.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 3244,
       "exportedPath": "lib/fonts/mathjax_size3-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_size4-regular.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 5148,
       "exportedPath": "lib/fonts/mathjax_size4-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_ams-regular.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 40808,
       "exportedPath": "lib/fonts/mathjax_ams-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-regular.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 9600,
       "exportedPath": "lib/fonts/mathjax_calligraphic-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_calligraphic-bold.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 9908,
       "exportedPath": "lib/fonts/mathjax_calligraphic-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-regular.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 21480,
       "exportedPath": "lib/fonts/mathjax_fraktur-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_fraktur-bold.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 22340,
       "exportedPath": "lib/fonts/mathjax_fraktur-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-regular.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 12660,
       "exportedPath": "lib/fonts/mathjax_sansserif-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-bold.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 15944,
       "exportedPath": "lib/fonts/mathjax_sansserif-bold.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_sansserif-italic.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 14628,
       "exportedPath": "lib/fonts/mathjax_sansserif-italic.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_script-regular.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 11852,
       "exportedPath": "lib/fonts/mathjax_script-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_typewriter-regular.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 17604,
       "exportedPath": "lib/fonts/mathjax_typewriter-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-regular.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 1136,
       "exportedPath": "lib/fonts/mathjax_vector-regular.woff",
       "dependencies": []
     },
     "lib/fonts/mathjax_vector-bold.woff": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 1116,
       "exportedPath": "lib/fonts/mathjax_vector-bold.woff",
       "dependencies": []
     },
     "lib/html/file-tree.html": {
-      "modifiedTime": 1710541325021,
-      "sourceSize": 17105,
+      "modifiedTime": 1710628064037,
+      "sourceSize": 25126,
       "exportedPath": "lib/html/file-tree.html",
       "dependencies": []
     },
     "lib/scripts/webpage.js": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 47290,
       "exportedPath": "lib/scripts/webpage.js",
       "dependencies": []
     },
     "lib/scripts/graph-view.js": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 15519,
       "exportedPath": "lib/scripts/graph-view.js",
       "dependencies": []
     },
     "lib/scripts/graph-wasm.js": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 14021,
       "exportedPath": "lib/scripts/graph-wasm.js",
       "dependencies": []
     },
     "lib/scripts/graph-render-worker.js": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 5179,
       "exportedPath": "lib/scripts/graph-render-worker.js",
       "dependencies": []
     },
     "lib/scripts/tinycolor.js": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 29832,
       "exportedPath": "lib/scripts/tinycolor.js",
       "dependencies": []
     },
     "lib/scripts/pixi.js": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 449509,
       "exportedPath": "lib/scripts/pixi.js",
       "dependencies": []
     },
     "lib/scripts/minisearch.js": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 29422,
       "exportedPath": "lib/scripts/minisearch.js",
       "dependencies": []
     },
     "lib/media/favicon.png": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 1105,
       "exportedPath": "lib/media/favicon.png",
       "dependencies": []
     },
     "lib/scripts/graph-data.js": {
-      "modifiedTime": 1710541325021,
-      "sourceSize": 412,
+      "modifiedTime": 1710628064037,
+      "sourceSize": 492,
       "exportedPath": "lib/scripts/graph-data.js",
       "dependencies": []
     },
     "lib/styles/obsidian.css": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 157356,
       "exportedPath": "lib/styles/obsidian.css",
       "dependencies": []
     },
     "lib/styles/global-variable-styles.css": {
-      "modifiedTime": 1710541325021,
-      "sourceSize": 236,
+      "modifiedTime": 1710628064037,
+      "sourceSize": 311,
       "exportedPath": "lib/styles/global-variable-styles.css",
       "dependencies": []
     },
     "lib/styles/main-styles.css": {
-      "modifiedTime": 1710541325021,
+      "modifiedTime": 1710628064037,
       "sourceSize": 23130,
       "exportedPath": "lib/styles/main-styles.css",
       "dependencies": []

@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[doc]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>doc</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Fri, 15 Mar 2024 22:22:08 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Fri, 15 Mar 2024 22:22:05 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Оброблення бази данних (ітерація 1)]]></title><description><![CDATA[ 
- <br>Було завантажено датасет із 109 волонтерів та 64 сигналами. Із цих 64 сигналів були узяті Fp1, Fp2, Af7 (лобні точки) та такі стани мозку:<br>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[doc]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib/media/favicon.png</url><title>doc</title><link></link></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 16 Mar 2024 22:27:49 GMT</lastBuildDate><atom:link href="lib/rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 16 Mar 2024 22:27:44 GMT</pubDate><ttl>60</ttl><dc:creator></dc:creator><item><title><![CDATA[Оброблення датасету (ітерація 1)]]></title><description><![CDATA[ 
+ <br><br>Було завантажено датасет із 109 волонтерів та 64 сигналами. Із цих 64 сигналів були узяті Fp1, Fp2, Af7 (лобні точки) та такі стани мозку:<br>
 <br>R01 - Відпочинок, очі відкриті
 <br>R02 - Відпочинок, очі закриті
 <br>R03 - Почергово відпочинок, стискання та розтискання лівого кулаку, стискання та розтискання правого кулаку
@@ -23,31 +23,31 @@
 <br>W_entr: Ентропія білих вертикальних ліній (W_entr) - міра непорядку або невизначеності у розподілі білих вертикальних ліній у рекурентному графі.
 <br>DET/RR: Відношення визначеності до рекурентної частоти (DET/RR) - відношення показника визначеності до показника рекурентної частоти.
 <br>LAM/DET: Відношення ламінарності до визначеності (LAM/DET) - відношення показника ламінарності до показника визначеності.
-<br>Отримані параметри були відображені за допомогою <a data-tooltip-position="top" aria-label="https://pypi.org/project/matplotlib/" rel="noopener" class="external-link" href="https://pypi.org/project/matplotlib/" target="_blank">matplotlib</a> та функції що будує графіки через <a data-tooltip-position="top" aria-label="https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0" rel="noopener" class="external-link" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0" target="_blank">Скрипкову діаграму</a>. Таким чином ми наочно можемо бачити які значення отримують кожні із параметрів найчастіше. При відображенні на графіку значення були відфільтровані, прибрані нульові значення, та нескінчено великі значення.<br><br><img alt="Графіки 1/tau.png" src="/графіки-1/tau.png"><br>
-<img alt="Графіки 1/m.png" src="/графіки-1/m.png"><br>
-<img alt="Графіки 1/L_min.png" src="/графіки-1/l_min.png"><br>
-<img alt="Графіки 1/V_min.png" src="/графіки-1/v_min.png"><br>
-<img alt="Графіки 1/W_min.png" src="/графіки-1/w_min.png"><br>
-<img alt="Графіки 1/RR.png" src="/графіки-1/rr.png"><br>
-<img alt="Графіки 1/DET.png" src="/графіки-1/det.png"><br>
-<img alt="Графіки 1/L.png" src="/графіки-1/l.png"><br>
-<img alt="Графіки 1/L_max.png" src="/графіки-1/l_max.png"><br>
-<img alt="Графіки 1/DIV.png" src="/графіки-1/div.png"><br>
-<img alt="Графіки 1/L_entr.png" src="/графіки-1/l_entr.png"><br>
-<img alt="Графіки 1/LAM.png" src="/графіки-1/lam.png"><br>
-<img alt="Графіки 1/TT.png" src="/графіки-1/tt.png"><br>
-<img alt="Графіки 1/V_max.png" src="/графіки-1/v_max.png"><br>
-<img alt="Графіки 1/V_entr.png" src="/графіки-1/v_entr.png"><br>
-<img alt="Графіки 1/W.png" src="/графіки-1/w.png"><br>
-<img alt="Графіки 1/W_max.png" src="/графіки-1/w_max.png"><br>
-<img alt="Графіки 1/W_div.png" src="/графіки-1/w_div.png"><br>
-<img alt="Графіки 1/W_entr.png" src="/графіки-1/w_entr.png"><br>
-<img alt="Графіки 1/DET_RR.png" src="/графіки-1/det_rr.png"><br>
-<img alt="Графіки 1/LAM_DET.png" src="/графіки-1/lam_det.png"><br><br>Посилання:<br>
+<br>Отримані параметри були відображені за допомогою <a data-tooltip-position="top" aria-label="https://pypi.org/project/matplotlib/" rel="noopener" class="external-link" href="https://pypi.org/project/matplotlib/" target="_blank">matplotlib</a> та функції що будує графіки через <a data-tooltip-position="top" aria-label="https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0" rel="noopener" class="external-link" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0" target="_blank">Скрипкову діаграму</a>. Таким чином ми наочно можемо бачити які значення отримують кожні із параметрів найчастіше. При відображенні на графіку значення були відфільтровані, прибрані нульові значення, та нескінчено великі значення.<br><br><img alt="Plot 1/tau.png" src="/plot-1/tau.png"><br>
+<img alt="Plot 1/m.png" src="/plot-1/m.png"><br>
+<img alt="Plot 1/L_min.png" src="/plot-1/l_min.png"><br>
+<img alt="Plot 1/V_min.png" src="/plot-1/v_min.png"><br>
+<img alt="Plot 1/W_min.png" src="/plot-1/w_min.png"><br>
+<img alt="Plot 1/RR.png" src="/plot-1/rr.png"><br>
+<img alt="Plot 1/DET.png" src="/plot-1/det.png"><br>
+<img alt="Plot 1/L.png" src="/plot-1/l.png"><br>
+<img alt="Plot 1/L_max.png" src="/plot-1/l_max.png"><br>
+<img alt="Plot 1/DIV.png" src="/plot-1/div.png"><br>
+<img alt="Plot 1/L_entr.png" src="/plot-1/l_entr.png"><br>
+<img alt="Plot 1/LAM.png" src="/plot-1/lam.png"><br>
+<img alt="Plot 1/TT.png" src="/plot-1/tt.png"><br>
+<img alt="Plot 1/V_max.png" src="/plot-1/v_max.png"><br>
+<img alt="Plot 1/V_entr.png" src="/plot-1/v_entr.png"><br>
+<img alt="Plot 1/W.png" src="/plot-1/w.png"><br>
+<img alt="Plot 1/W_max.png" src="/plot-1/w_max.png"><br>
+<img alt="Plot 1/W_div.png" src="/plot-1/w_div.png"><br>
+<img alt="Plot 1/W_entr.png" src="/plot-1/w_entr.png"><br>
+<img alt="Plot 1/DET_RR.png" src="/plot-1/det_rr.png"><br>
+<img alt="Plot 1/LAM_DET.png" src="/plot-1/lam_det.png"><br><br>Посилання:<br>
 <br><a data-tooltip-position="top" aria-label="http://www.ncbi.nlm.nih.gov/pubmed/15188875" rel="noopener" class="external-link" href="http://www.ncbi.nlm.nih.gov/pubmed/15188875" target="_blank">Schalk, G., McFarland, D.J., Hinterberger, T., Birbaumer, N., Wolpaw, J.R. BCI2000: A General-Purpose Brain-Computer Interface (BCI) System. IEEE Transactions on Biomedical Engineering 51(6):1034-1043, 2004.</a>
 <br>Rawald, T., Sips, M., Marwan, N. (2017): PyRQA - Conducting Recurrence Quantification Analysis on Very Long Time Series Efficiently. - Computers and Geosciences, 104, pp.&nbsp;101-108.
-<br><br>Copyright (c) 2024 Yehor Panasenko &lt;<a data-tooltip-position="top" aria-label="mailto:gaura.panasenko@gmail.com" rel="noopener" class="external-link" href="mailto:gaura.panasenko@gmail.com" target="_blank">gaura.panasenko@gmail.com</a>&gt; ]]></description><link>оброблення-бази-данних-(ітерація-1).html</link><guid isPermaLink="false">Оброблення бази данних (ітерація 1).md</guid><pubDate>Fri, 15 Mar 2024 22:19:23 GMT</pubDate><enclosure url="графіки-1/tau.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;графіки-1/tau.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Оброблення бази данних (ітерація 2)]]></title><description><![CDATA[ 
- <br>Було завантажено датасет із 109 волонтерів та 64 сигналами. Із цих 64 сигналів були узяті Fp1, Fp2, Af7 (лобні точки) та такі стани мозку:<br>
+<br><br>Copyright (c) 2024 Yehor Panasenko &lt;<a data-tooltip-position="top" aria-label="mailto:gaura.panasenko@gmail.com" rel="noopener" class="external-link" href="mailto:gaura.panasenko@gmail.com" target="_blank">gaura.panasenko@gmail.com</a>&gt; ]]></description><link>dataset-processing-(1st-iteration).html</link><guid isPermaLink="false">Dataset processing (1st iteration).md</guid><pubDate>Sat, 16 Mar 2024 22:12:54 GMT</pubDate><enclosure url="plot-1/tau.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;plot-1/tau.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Оброблення датасету (ітерація 2)]]></title><description><![CDATA[ 
+ <br><br>Було завантажено датасет із 109 волонтерів та 64 сигналами. Із цих 64 сигналів були узяті Fp1, Fp2, Af7 (лобні точки) та такі стани мозку:<br>
 <br>R01 - Відпочинок, очі відкриті
 <br>R02 - Відпочинок, очі закриті
 <br>R03 - Почергово відпочинок, стискання та розтискання лівого кулаку, стискання та розтискання правого кулаку
@@ -71,27 +71,76 @@
 <br>W_entr: Ентропія білих вертикальних ліній (W_entr) - міра непорядку або невизначеності у розподілі білих вертикальних ліній у рекурентному графі.
 <br>DET/RR: Відношення визначеності до рекурентної частоти (DET/RR) - відношення показника визначеності до показника рекурентної частоти.
 <br>LAM/DET: Відношення ламінарності до визначеності (LAM/DET) - відношення показника ламінарності до показника визначеності.
-<br>Отримані параметри були відображені за допомогою <a data-tooltip-position="top" aria-label="https://pypi.org/project/matplotlib/" rel="noopener" class="external-link" href="https://pypi.org/project/matplotlib/" target="_blank">matplotlib</a> та функції що будує графіки через <a data-tooltip-position="top" aria-label="https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0" rel="noopener" class="external-link" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0" target="_blank">Скрипкову діаграму</a>. Таким чином ми наочно можемо бачити які значення отримують кожні із параметрів найчастіше. При відображенні на графіку значення були відфільтровані, прибрані нульові значення, та нескінчено великі значення.<br><img alt="Графіки 2/tau.png" src="/графіки-2/tau.png"><br>
-<img alt="Графіки 2/m.png" src="/графіки-2/m.png"><br>
-<img alt="Графіки 2/L_min.png" src="/графіки-2/l_min.png"><br>
-<img alt="Графіки 2/V_min.png" src="/графіки-2/v_min.png"><br>
-<img alt="Графіки 2/W_min.png" src="/графіки-2/w_min.png"><br>
-<img alt="Графіки 2/RR.png" src="/графіки-2/rr.png"><br>
-<img alt="Графіки 2/DET.png" src="/графіки-2/det.png"><br>
-<img alt="Графіки 2/L.png" src="/графіки-2/l.png"><br>
-<img alt="Графіки 2/L_max.png" src="/графіки-2/l_max.png"><br>
-<img alt="Графіки 2/DIV.png" src="/графіки-2/div.png"><br>
-<img alt="Графіки 2/L_entr.png" src="/графіки-2/l_entr.png"><br>
-<img alt="Графіки 2/LAM.png" src="/графіки-2/lam.png"><br>
-<img alt="Графіки 2/TT.png" src="/графіки-2/tt.png"><br>
-<img alt="Графіки 2/V_max.png" src="/графіки-2/v_max.png"><br>
-<img alt="Графіки 2/V_entr.png" src="/графіки-2/v_entr.png"><br>
-<img alt="Графіки 2/W.png" src="/графіки-2/w.png"><br>
-<img alt="Графіки 2/W_max.png" src="/графіки-2/w_max.png"><br>
-<img alt="Графіки 2/W_div.png" src="/графіки-2/w_div.png"><br>
-<img alt="Графіки 2/W_entr.png" src="/графіки-2/w_entr.png"><br>
-<img alt="Графіки 2/DET_RR.png" src="/графіки-2/det_rr.png"><br>
-<img alt="Графіки 2/LAM_DET.png" src="/графіки-2/lam_det.png"><br><br>Посилання:<br>
+<br>Отримані параметри були відображені за допомогою <a data-tooltip-position="top" aria-label="https://pypi.org/project/matplotlib/" rel="noopener" class="external-link" href="https://pypi.org/project/matplotlib/" target="_blank">matplotlib</a> та функції що будує графіки через <a data-tooltip-position="top" aria-label="https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0" rel="noopener" class="external-link" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0" target="_blank">Скрипкову діаграму</a>. Таким чином ми наочно можемо бачити які значення отримують кожні із параметрів найчастіше. При відображенні на графіку значення були відфільтровані, прибрані нульові значення, та нескінчено великі значення.<br><img alt="Plot 2/tau.png" src="/plot-2/tau.png"><br>
+<img alt="Plot 2/m.png" src="/plot-2/m.png"><br>
+<img alt="Plot 2/L_min.png" src="/plot-2/l_min.png"><br>
+<img alt="Plot 2/V_min.png" src="/plot-2/v_min.png"><br>
+<img alt="Plot 2/W_min.png" src="/plot-2/w_min.png"><br>
+<img alt="Plot 2/RR.png" src="/plot-2/rr.png"><br>
+<img alt="Plot 2/DET.png" src="/plot-2/det.png"><br>
+<img alt="Plot 2/L.png" src="/plot-2/l.png"><br>
+<img alt="Plot 2/L_max.png" src="/plot-2/l_max.png"><br>
+<img alt="Plot 2/DIV.png" src="/plot-2/div.png"><br>
+<img alt="Plot 2/L_entr.png" src="/plot-2/l_entr.png"><br>
+<img alt="Plot 2/LAM.png" src="/plot-2/lam.png"><br>
+<img alt="Plot 2/TT.png" src="/plot-2/tt.png"><br>
+<img alt="Plot 2/V_max.png" src="/plot-2/v_max.png"><br>
+<img alt="Plot 2/V_entr.png" src="/plot-2/v_entr.png"><br>
+<img alt="Plot 2/W.png" src="/plot-2/w.png"><br>
+<img alt="Plot 2/W_max.png" src="/plot-2/w_max.png"><br>
+<img alt="Plot 2/W_div.png" src="/plot-2/w_div.png"><br>
+<img alt="Plot 2/W_entr.png" src="/plot-2/w_entr.png"><br>
+<img alt="Plot 2/DET_RR.png" src="/plot-2/det_rr.png"><br>
+<img alt="Plot 2/LAM_DET.png" src="/plot-2/lam_det.png"><br><br>Посилання:<br>
 <br><a data-tooltip-position="top" aria-label="http://www.ncbi.nlm.nih.gov/pubmed/15188875" rel="noopener" class="external-link" href="http://www.ncbi.nlm.nih.gov/pubmed/15188875" target="_blank">Schalk, G., McFarland, D.J., Hinterberger, T., Birbaumer, N., Wolpaw, J.R. BCI2000: A General-Purpose Brain-Computer Interface (BCI) System. IEEE Transactions on Biomedical Engineering 51(6):1034-1043, 2004.</a>
 <br>Rawald, T., Sips, M., Marwan, N. (2017): PyRQA - Conducting Recurrence Quantification Analysis on Very Long Time Series Efficiently. - Computers and Geosciences, 104, pp.&nbsp;101-108.
-<br><br>Copyright (c) 2024 Yehor Panasenko &lt;<a data-tooltip-position="top" aria-label="mailto:gaura.panasenko@gmail.com" rel="noopener" class="external-link" href="mailto:gaura.panasenko@gmail.com" target="_blank">gaura.panasenko@gmail.com</a>&gt; ]]></description><link>оброблення-бази-данних-(ітерація-2).html</link><guid isPermaLink="false">Оброблення бази данних (ітерація 2).md</guid><pubDate>Fri, 15 Mar 2024 22:20:36 GMT</pubDate><enclosure url="графіки-2/tau.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;графіки-2/tau.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
+<br><br>Copyright (c) 2024 Yehor Panasenko &lt;<a data-tooltip-position="top" aria-label="mailto:gaura.panasenko@gmail.com" rel="noopener" class="external-link" href="mailto:gaura.panasenko@gmail.com" target="_blank">gaura.panasenko@gmail.com</a>&gt; ]]></description><link>dataset-processing-(2nd-iteration).html</link><guid isPermaLink="false">Dataset processing (2nd iteration).md</guid><pubDate>Sat, 16 Mar 2024 22:12:59 GMT</pubDate><enclosure url="plot-2/tau.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;plot-2/tau.png&quot;&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Оброблення датасету (ітерація 3)]]></title><description><![CDATA[ 
+ <br><br>Було завантажено датасет із 109 волонтерів та 64 сигналами. Із цих 64 сигналів були узяті Fp1, Fp2, Af7 (лобні точки) та такі стани мозку:<br>
+<br>R01 - Відпочинок, очі відкриті
+<br>R02 - Відпочинок, очі закриті
+<br>R03 - Почергово відпочинок, стискання та розтискання лівого кулаку, стискання та розтискання правого кулаку
+<br>R04 - Почергово відпочинок, представлення стискання та розтискання лівого кулаку, представлення стискання та розтискання правого кулаку
+<br>Для рекурентного аналізу було вибрано ,  .<br>Наступним кроком за допомогою <a data-tooltip-position="top" aria-label="https://pypi.org/project/PyRQA/" rel="noopener" class="external-link" href="https://pypi.org/project/PyRQA/" target="_blank">PyRQA</a> було обчислено для кожного сигналу наступні параметри:<br>
+<br>L_min: Мінімальна довжина діагональної лінії (L_min) - найменша довжина діагональної лінії в рекурентному графі.
+<br>V_min: Мінімальна довжина вертикальної лінії (V_min) - найменша довжина вертикальної лінії в рекурентному графі.
+<br>W_min: Мінімальна довжина білої вертикальної лінії (W_min) - найменша довжина білої вертикальної лінії в рекурентному графі.
+<br>RR: Рекурентна частота (RR) - відношення кількості рекурентів до загальної кількості точок у рекурентному графі.
+<br>DET: Визначеність (DET) - відношення кількості точок у рекурентному графі, що утворюють діагональні лінії, до загальної кількості точок.
+<br>L: Середня довжина діагональної лінії (L) - середня довжина діагональних ліній у рекурентному графі.
+<br>L_max: Найбільша довжина діагональної лінії (L_max) - найбільша довжина діагональної лінії у рекурентному графі.
+<br>DIV: Дивергенція (DIV) - відношення кількості точок, які не утворюють рекурентів, до загальної кількості точок у рекурентному графі.
+<br>L_entr: Ентропія діагональних ліній (L_entr) - міра непорядку або невизначеності у розподілі діагональних ліній у рекурентному графі.
+<br>LAM: Ламінарність (LAM) - відношення кількості точок у рекурентному графі, що утворюють вертикальні лінії, до загальної кількості точок.
+<br>TT: Час захоплення (TT) - середній час, який система проводить в області рекурентного простору.
+<br>V_max: Найбільша довжина вертикальної лінії (V_max) - найбільша довжина вертикальної лінії у рекурентному графі.
+<br>V_entr: Ентропія вертикальних ліній (V_entr) - міра непорядку або невизначеності у розподілі вертикальних ліній у рекурентному графі.
+<br>W: Середня довжина білої вертикальної лінії (W) - середня довжина білих вертикальних ліній у рекурентному графі.
+<br>W_max: Найбільша довжина білої вертикальної лінії (W_max) - найбільша довжина білої вертикальної лінії у рекурентному графі.
+<br>W_div: Дивергенція найбільшої білої вертикальної лінії (W_div) - відношення кількості точок, які не утворюють найбільшу білу вертикальну лінію, до загальної кількості точок у рекурентному графі.
+<br>W_entr: Ентропія білих вертикальних ліній (W_entr) - міра непорядку або невизначеності у розподілі білих вертикальних ліній у рекурентному графі.
+<br>DET/RR: Відношення визначеності до рекурентної частоти (DET/RR) - відношення показника визначеності до показника рекурентної частоти.
+<br>LAM/DET: Відношення ламінарності до визначеності (LAM/DET) - відношення показника ламінарності до показника визначеності.
+<br>Отримані параметри були відображені за допомогою <a data-tooltip-position="top" aria-label="https://pypi.org/project/matplotlib/" rel="noopener" class="external-link" href="https://pypi.org/project/matplotlib/" target="_blank">matplotlib</a> та функції що будує графіки через <a data-tooltip-position="top" aria-label="https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0" rel="noopener" class="external-link" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D1%80%D0%B8%D0%BF%D0%BA%D0%BE%D0%B2%D0%B0_%D0%B4%D1%96%D0%B0%D0%B3%D1%80%D0%B0%D0%BC%D0%B0" target="_blank">Скрипкову діаграму</a>. Таким чином ми наочно можемо бачити які значення отримують кожні із параметрів найчастіше. При відображенні на графіку значення були відфільтровані, прибрані нульові значення, та нескінчено великі значення.<br><img alt="Plot 3/tau.png" src="/plot-3/tau.png"><br>
+<img alt="Plot 3/m.png" src="/plot-3/m.png"><br>
+<img alt="Plot 3/L_min.png" src="/plot-3/l_min.png"><br>
+<img alt="Plot 3/V_min.png" src="/plot-3/v_min.png"><br>
+<img alt="Plot 3/W_min.png" src="/plot-3/w_min.png"><br>
+<img alt="Plot 3/RR.png" src="/plot-3/rr.png"><br>
+<img alt="Plot 3/DET.png" src="/plot-3/det.png"><br>
+<img alt="Plot 3/L.png" src="/plot-3/l.png"><br>
+<img alt="Plot 3/L_max.png" src="/plot-3/l_max.png"><br>
+<img alt="Plot 3/DIV.png" src="/plot-3/div.png"><br>
+<img alt="Plot 3/L_entr.png" src="/plot-3/l_entr.png"><br>
+<img alt="Plot 3/LAM.png" src="/plot-3/lam.png"><br>
+<img alt="Plot 3/TT.png" src="/plot-3/tt.png"><br>
+<img alt="Plot 3/V_max.png" src="/plot-3/v_max.png"><br>
+<img alt="Plot 3/V_entr.png" src="/plot-3/v_entr.png"><br>
+<img alt="Plot 3/W.png" src="/plot-3/w.png"><br>
+<img alt="Plot 3/W_max.png" src="/plot-3/w_max.png"><br>
+<img alt="Plot 3/W_div.png" src="/plot-3/w_div.png"><br>
+<img alt="Plot 3/W_entr.png" src="/plot-3/w_entr.png"><br>
+<img alt="Plot 3/DET_RR.png" src="/plot-3/det_rr.png"><br>
+<img alt="Plot 3/LAM_DET.png" src="/plot-3/lam_det.png"><br><br>Посилання:<br>
+<br><a data-tooltip-position="top" aria-label="http://www.ncbi.nlm.nih.gov/pubmed/15188875" rel="noopener" class="external-link" href="http://www.ncbi.nlm.nih.gov/pubmed/15188875" target="_blank">Schalk, G., McFarland, D.J., Hinterberger, T., Birbaumer, N., Wolpaw, J.R. BCI2000: A General-Purpose Brain-Computer Interface (BCI) System. IEEE Transactions on Biomedical Engineering 51(6):1034-1043, 2004.</a>
+<br>Rawald, T., Sips, M., Marwan, N. (2017): PyRQA - Conducting Recurrence Quantification Analysis on Very Long Time Series Efficiently. - Computers and Geosciences, 104, pp.&nbsp;101-108.
+<br><br>Copyright (c) 2024 Yehor Panasenko &lt;<a data-tooltip-position="top" aria-label="mailto:gaura.panasenko@gmail.com" rel="noopener" class="external-link" href="mailto:gaura.panasenko@gmail.com" target="_blank">gaura.panasenko@gmail.com</a>&gt; ]]></description><link>dataset-processing-(3nd-iteration).html</link><guid isPermaLink="false">Dataset processing (3nd iteration).md</guid><pubDate>Sat, 16 Mar 2024 22:26:11 GMT</pubDate><enclosure url="plot-3/tau.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src=&quot;plot-3/tau.png&quot;&gt;&lt;/figure&gt;</content:encoded></item></channel></rss>
