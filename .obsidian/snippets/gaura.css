@@ -2,3 +2,7 @@
 	width: 16px;
 	margin-right: 10px;
 }
+
+.reveal p {
+  font-size: 0.5em;
+}

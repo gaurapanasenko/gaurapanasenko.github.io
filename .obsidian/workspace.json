@@ -18,16 +18,16 @@
                 "source": true
               }
             },
-            "group": "d62e2d44e91e001c"
+            "group": "7061031cd90e45f1"
           }
         ]
       },
       {
-        "id": "2915dff697dc7487",
+        "id": "09b975207b4d7720",
         "type": "tabs",
         "children": [
           {
-            "id": "f23c27324f51eb5b",
+            "id": "5c40b6ebc9c1ded3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -37,7 +37,7 @@
                 "source": true
               }
             },
-            "group": "d62e2d44e91e001c"
+            "group": "7061031cd90e45f1"
           }
         ]
       }
@@ -105,6 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,6 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +144,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "index.md"
+              }
             }
           }
         ]
@@ -165,23 +169,27 @@
     }
   },
   "floating": {
-    "id": "8c7f69fc5123a422",
+    "id": "382dca26449940fc",
     "type": "floating",
     "children": [
       {
-        "id": "29d4909d6f9592ac",
+        "id": "374435b9e5c087b4",
         "type": "window",
         "children": [
           {
-            "id": "5ee75f1138c22ac7",
+            "id": "f8399464a2005a53",
             "type": "tabs",
             "children": [
               {
-                "id": "75581d93ef9b0200",
+                "id": "7f097fc58cc266b0",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "index.md",
+                    "mode": "source",
+                    "source": true
+                  }
                 }
               }
             ]
@@ -197,31 +205,37 @@
       }
     ]
   },
-  "active": "75581d93ef9b0200",
+  "active": "7f097fc58cc266b0",
   "lastOpenFiles": [
     "index.md",
-    "favicon.png",
-    "science_works.md",
-    "export/science_works/plugin/math/mathjax/input/asciimath.js",
-    "export/science_works/plugin/math/mathjax/input/mml/extensions/mml3.js",
-    "export/science_works/plugin/math/mathjax/input/mml/extensions/mml3.sef.json",
-    "export/science_works/plugin/math/mathjax/input/mml/entities.js",
-    "export/science_works/plugin/math/mathjax/input/mml/extensions",
-    "export/science_works/plugin/math/mathjax/input/mml",
-    "export/science_works/plugin/math/mathjax/input/mml.js",
-    "export/science_works/plugin/math/mathjax/input/tex/extensions/action.js",
-    "export/science_works/plugin/math/mathjax/input/tex/extensions/all-packages.js",
-    "export/science_works/plugin/math/mathjax/input/tex/extensions/ams.js",
-    "lib/media/favicon.png",
-    "lib/media/874d8b8e340f75575caa.svg",
+    "EEG_analysis.png",
+    "Screen Shot 2024-04-03 at 04.52.22.png",
+    "EEG_analysis.md",
+    "export/EEG_analysis/imgs/ICA_demo.png",
+    "export/EEG_analysis/imgs/Alpha_power.png",
+    "export/EEG_analysis/imgs/Band_waves.png",
+    "export/EEG_analysis/imgs/Welch_demo.png",
+    "export/EEG_analysis/imgs/RQA_diagrams.png",
+    "export/EEG_analysis/Pasted image 20240402210018.png",
+    "export/EEG_analysis/Pasted image 20240402205938.png",
+    "export/EEG_analysis/Pasted image 20240402204920.png",
+    "export/EEG_analysis/imgs",
+    "export/EEG_analysis/plugin/chalkboard/README.md",
+    "export/EEG_analysis/plugin/chalkboard/_style.css",
+    "export/EEG_analysis/plugin/chalkboard/img",
+    "export/EEG_analysis/plugin/chalkboard/style.css",
+    "export/EEG_analysis/plugin/chalkboard/plugin.js",
+    "export/EEG_analysis/plugin/chalkboard/plugin (copy).js",
+    "export/EEG_analysis/plugin/chalkboard",
+    "export/EEG_analysis/plugin/chart/plugin.js",
+    "export/EEG_analysis/plugin/chart/chart.min.js",
+    "export/EEG_analysis/plugin/chart/README.md",
+    "export/EEG_analysis/plugin/chart",
+    "export/EEG_analysis/plugin/customcontrols/README.md",
+    "export/EEG_analysis/plugin/menu/CONTRIBUTING.md",
+    "export/EEG_analysis/plugin/menu/README.md",
     "Readme.md",
-    "export/science_works/plugin/chalkboard/img/whiteboard.png",
-    "export/science_works/plugin/chalkboard/img/sponge.png",
-    "export/science_works/plugin/chalkboard/img/chalk-white.png",
-    "export/science_works/plugin/chalkboard/img/chalk-purple.png",
-    "export/science_works/plugin/chalkboard/img/chalk-yellow.png",
-    "export/science_works/plugin/chalkboard/img/chalk-red.png",
-    "export/science_works/plugin/chalkboard/img/chalk-green.png",
+    "science_works.md",
     "export/science_works/plugin/chalkboard/README.md",
     "export/science_works/plugin/chart/README.md",
     "export/science_works/plugin/customcontrols/README.md",

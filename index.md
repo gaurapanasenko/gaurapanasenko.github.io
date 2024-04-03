@@ -47,7 +47,15 @@ title: "Science works"
 description: "Several interesting science works from students"
 host: gaurapanasenko.github.io
 favicon: https://gaurapanasenko.github.io/favicon.png
-image: https://gaurapanasenko.github.io/science_works.png
+image: "[[science_works.png]]"
+```
+
+```cardlink
+url: https://gaurapanasenko.github.io/export/EEG_analysis/
+title: "EEG alalysis"
+host: gaurapanasenko.github.io
+favicon: https://gaurapanasenko.github.io/favicon.png
+image: "[[EEG_analysis.png]]"
 ```
 
 
