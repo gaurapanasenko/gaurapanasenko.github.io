@@ -8,36 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e2440514257e61ef",
+            "id": "0d00ef1972669861",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "EEG_analysis_eng.md",
                 "mode": "source",
                 "source": true
               }
-            },
-            "group": "7061031cd90e45f1"
+            }
           }
         ]
       },
       {
-        "id": "09b975207b4d7720",
+        "id": "e4dfafc2403dc2de",
         "type": "tabs",
         "children": [
           {
-            "id": "5c40b6ebc9c1ded3",
+            "id": "4fd2d2d33d515fe3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": true
-              }
-            },
-            "group": "7061031cd90e45f1"
+              "type": "reveal-preview-view",
+              "state": {}
+            }
           }
         ]
       }
@@ -89,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "f7ca55bc08c6fcee",
@@ -105,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "EEG_analysis_eng.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "EEG_analysis_eng.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "EEG_analysis_eng.md"
               }
             }
           }
@@ -168,49 +163,13 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "382dca26449940fc",
-    "type": "floating",
-    "children": [
-      {
-        "id": "374435b9e5c087b4",
-        "type": "window",
-        "children": [
-          {
-            "id": "f8399464a2005a53",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "7f097fc58cc266b0",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "index.md",
-                    "mode": "source",
-                    "source": true
-                  }
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 0,
-        "y": 0,
-        "width": 1366,
-        "height": 743,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "7f097fc58cc266b0",
+  "active": "0d00ef1972669861",
   "lastOpenFiles": [
     "index.md",
+    "EEG_analysis_eng.md",
+    "EEG_analysis.md",
     "EEG_analysis.png",
     "Screen Shot 2024-04-03 at 04.52.22.png",
-    "EEG_analysis.md",
     "export/EEG_analysis/imgs/ICA_demo.png",
     "export/EEG_analysis/imgs/Alpha_power.png",
     "export/EEG_analysis/imgs/Band_waves.png",
