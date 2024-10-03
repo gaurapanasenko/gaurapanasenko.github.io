@@ -22,11 +22,11 @@
         ]
       },
       {
-        "id": "e4dfafc2403dc2de",
+        "id": "385912d06eed67ef",
         "type": "tabs",
         "children": [
           {
-            "id": "4fd2d2d33d515fe3",
+            "id": "8b4ef6ff1314e904",
             "type": "leaf",
             "state": {
               "type": "reveal-preview-view",
@@ -83,8 +83,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "f7ca55bc08c6fcee",
@@ -100,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "EEG_analysis_eng.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "EEG_analysis_eng.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "EEG_analysis_eng.md"
+                "file": "index.md"
               }
             }
           }
@@ -163,33 +162,75 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "active": "0d00ef1972669861",
+  "floating": {
+    "id": "e9a1a422c616d192",
+    "type": "floating",
+    "children": [
+      {
+        "id": "71baae4235d2ce91",
+        "type": "window",
+        "children": [
+          {
+            "id": "9681ffa11deef72e",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e3dfcc97b061beab",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "index.md",
+                    "mode": "source",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 233,
+        "y": 243,
+        "width": 900,
+        "height": 500,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e3dfcc97b061beab",
   "lastOpenFiles": [
-    "index.md",
     "EEG_analysis_eng.md",
+    "export/EEG_analysis_eng.zip",
+    "export/EEG_analysis_eng/imgs/ICA_demo.png",
+    "export/EEG_analysis_eng/imgs/Alpha_power.png",
+    "export/EEG_analysis_eng/imgs/Band_waves.png",
+    "export/EEG_analysis_eng/imgs/Welch_demo.png",
+    "export/EEG_analysis_eng/imgs/RQA_diagrams.png",
+    "export/EEG_analysis_eng/Pasted image 20240402210018.png",
+    "export/EEG_analysis_eng/Pasted image 20240402205938.png",
+    "export/EEG_analysis_eng/Pasted image 20240402204920.png",
+    "export/EEG_analysis_eng/imgs/EEG_10-10_system_with_additional_information.svg",
+    "export/EEG_analysis_eng/imgs",
+    "export/EEG_analysis_eng/Pasted image 20240402203352.png",
+    "export/EEG_analysis_eng/plugin/chalkboard/README.md",
+    "export/EEG_analysis_eng/plugin/chalkboard/_style.css",
+    "export/EEG_analysis_eng/plugin/chalkboard/img",
+    "export/EEG_analysis_eng/plugin/chalkboard/plugin (copy).js",
+    "export/EEG_analysis_eng/plugin/chalkboard/style.css",
+    "export/EEG_analysis_eng/plugin/chalkboard/plugin.js",
+    "export/EEG_analysis_eng/plugin/chalkboard",
+    "export/EEG_analysis_eng/plugin/chart/README.md",
+    "export/EEG_analysis_eng/plugin/chart/plugin.js",
+    "export/EEG_analysis_eng/plugin/chart/chart.min.js",
+    "export/EEG_analysis_eng/plugin/customcontrols/README.md",
+    "export/EEG_analysis_eng/plugin/menu/CONTRIBUTING.md",
+    "export/EEG_analysis_eng/plugin/menu/README.md",
+    "index.md",
     "EEG_analysis.md",
-    "EEG_analysis.png",
-    "Screen Shot 2024-04-03 at 04.52.22.png",
-    "export/EEG_analysis/imgs/ICA_demo.png",
-    "export/EEG_analysis/imgs/Alpha_power.png",
-    "export/EEG_analysis/imgs/Band_waves.png",
-    "export/EEG_analysis/imgs/Welch_demo.png",
-    "export/EEG_analysis/imgs/RQA_diagrams.png",
-    "export/EEG_analysis/Pasted image 20240402210018.png",
-    "export/EEG_analysis/Pasted image 20240402205938.png",
-    "export/EEG_analysis/Pasted image 20240402204920.png",
-    "export/EEG_analysis/imgs",
     "export/EEG_analysis/plugin/chalkboard/README.md",
-    "export/EEG_analysis/plugin/chalkboard/_style.css",
-    "export/EEG_analysis/plugin/chalkboard/img",
-    "export/EEG_analysis/plugin/chalkboard/style.css",
-    "export/EEG_analysis/plugin/chalkboard/plugin.js",
-    "export/EEG_analysis/plugin/chalkboard/plugin (copy).js",
-    "export/EEG_analysis/plugin/chalkboard",
-    "export/EEG_analysis/plugin/chart/plugin.js",
-    "export/EEG_analysis/plugin/chart/chart.min.js",
     "export/EEG_analysis/plugin/chart/README.md",
-    "export/EEG_analysis/plugin/chart",
     "export/EEG_analysis/plugin/customcontrols/README.md",
     "export/EEG_analysis/plugin/menu/CONTRIBUTING.md",
     "export/EEG_analysis/plugin/menu/README.md",

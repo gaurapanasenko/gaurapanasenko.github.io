@@ -22,11 +22,10 @@ image: https://yt3.googleusercontent.com/ytc/AIdro_lsvjF3Bvcho5s9P4xniJDkS6EJ2mW
 ```
 
 ```cardlink
-url: https://github.com/gaurapanasenko/
+url: https://www.linkedin.com/in/yehor-panasenko-51756a1b7/
 title: "Yehor Panasenko | LinkedIn"
 host: linkedin.com
 favicon: https://static.licdn.com/aero-v1/sc/h/3loy7tajf3n0cho89wgg0fjre
-image: https://media.licdn.com/dms/image/C4D03AQGIprzKM3-iuA/profile-displayphoto-shrink_800_800/0/1601459171552?e=1715817600&v=beta&t=f-8CGo03LjBjGniszdWsp3Idv76y6JY7Z-7Df_s9I60
 ```
 
 ## Projects
@@ -75,7 +74,7 @@ url: http://om.dp.ua/
 title: "На кухне у Ами | кушаем вкусно :) вегетарианские рецепты"
 description: "Вегетарианские рецепты, рецепты в пароварке, сыроедение"
 host: om.dp.ua
-favicon: http://om.dp.ua/sites/om.dp.ua/files/clear_dark_favicon.png
+favicon: "[[clear_dark_favicon.png]]"
 image: http://elfiny.top/software/Om.png
 ```
 
