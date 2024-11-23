@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EEG_analysis_eng.md",
-                "mode": "source",
+                "file": "Privacy policy.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "EEG_analysis_eng"
+              "title": "Privacy policy"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "Index"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,52 +178,16 @@
       "webpage-html-export:Export Vault to HTML": false
     }
   },
-  "floating": {
-    "id": "11f8fc70f7487593",
-    "type": "floating",
-    "children": [
-      {
-        "id": "ce69b4be63817887",
-        "type": "window",
-        "children": [
-          {
-            "id": "0022862569617f99",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aa3be15eec232d7d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Публічна оферта.md",
-                    "mode": "source",
-                    "source": true
-                  },
-                  "icon": "lucide-file",
-                  "title": "Публічна оферта"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 233,
-        "y": 243,
-        "width": 900,
-        "height": 500,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "aa3be15eec232d7d",
+  "active": "0d00ef1972669861",
   "lastOpenFiles": [
+    "Public offer agreement.md",
+    "privacy-policy.html",
     "Index.md",
+    "Privacy policy.md",
+    "EEG_analysis_eng.md",
     "Публічна оферта.md",
     "lib/html/file-tree.html",
     "public-offer-agreement.html",
-    "EEG_analysis_eng.md",
     "export/EEG_analysis_eng.zip",
     "export/EEG_analysis_eng/imgs/ICA_demo.png",
     "export/EEG_analysis_eng/imgs/Alpha_power.png",
@@ -243,7 +206,6 @@
     "export/EEG_analysis_eng/plugin/chalkboard/plugin (copy).js",
     "export/EEG_analysis_eng/plugin/chalkboard/style.css",
     "export/EEG_analysis_eng/plugin/chalkboard/plugin.js",
-    "export/EEG_analysis_eng/plugin/chalkboard",
     "export/EEG_analysis_eng/plugin/chart/README.md",
     "export/EEG_analysis_eng/plugin/customcontrols/README.md",
     "export/EEG_analysis_eng/plugin/menu/CONTRIBUTING.md",

@@ -47,7 +47,8 @@
   "filesToExport": [
     [
       "Index.md",
-      "Публічна оферта.md"
+      "Privacy policy.md",
+      "Public offer agreement.md"
     ]
   ]
 }
